@@ -1,0 +1,14 @@
+#contenedor{
+    display: flex;
+    justify-content: center;
+}
+.tarjeta{
+    background-color:#b3b3ff;
+    height:600px;
+    width:300px;
+    padding:10px;
+    margin:15px;
+}
+.tarjeta img{
+    width:100%;
+}
